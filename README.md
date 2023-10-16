@@ -5,5 +5,4 @@ Install the requirements file and proceed with the streamlit initialize command 
 # installation command
 pip3 install -r requirements.txt
 
-after installation
 streamlit run main.py
